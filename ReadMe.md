@@ -4,11 +4,6 @@ This github aims to give access to the latest version of **Eco Retina**, a green
 
 You'll find the python code of the algorithm (`eco-retinaV2`, which requires `utils.py` to work), the python code of the GUI (Graphical User Interface) and an `.exe` file to use directly the GUI.
 
-## Credits
-
-This version was developed by **Jules BERNADAC** and **Maxime ELEK** during a summer internship (2026). It is based on the work and under the direction of **professor Teodosio Perez Amaral**. 
-
-It is the second version of both the code and the GUI, the previous one by Javier Capilla can be found here: [https://github.com/jcapilla780/Eco-RETINA/](https://github.com/jcapilla780/Eco-RETINA/)
 
 ## What's new
 
@@ -18,58 +13,10 @@ The Eco-Retina code has also been modified. The structure has been simplified an
 
 ## Online GUI
 
-The GUI can also be used online with reduced features with this link: [https://ecoretina-cloud.onrender.com/](https://ecoretina-cloud.onrender.com/)# 🌱 Eco-RETINA V2
+The GUI can also be used online with reduced features with this link: [https://ecoretina-cloud.onrender.com/](https://ecoretina-cloud.onrender.com/)
 
-Welcome to the official repository for **Eco-RETINA**, a green, highly interpretable out-of-sample forecasting algorithm. 
+## Credits
 
-This repository gives you access to the latest V2 release, featuring a completely revamped architecture, boosted performances, and a brand-new user interface.
+This version was developed by **Jules BERNADAC** and **Maxime ELEK** during a summer internship (2026). It is based on the work and under the direction of **professor Teodosio Perez Amaral**. 
 
----
-
-## 📦 What's Inside?
-
-Whether you want to dive into the code or just use the tool out of the box, we've got you covered:
-
-*   🧠 **The Core Algorithm:** Python source code (`eco-retinaV2` — *Note: requires `utils.py` to run*).
-*   🖥️ **The GUI Code:** Full Python source code for the Graphical User Interface.
-*   🚀 **Standalone Executable:** An `.exe` file to launch the GUI directly, no setup or Python installation required!
-
----
-
-## ✨ What's New in V2?
-
-We've packed this release with powerful new features and under-the-hood improvements:
-
-### 🛠️ GUI Features
-*   **Data Pre-processing:** Clean and prepare your data directly within the app.
-*   **Algorithm Benchmarking:** Easily compare Eco-RETINA's results with other forecasting models.
-*   **AI Assistant:** Your built-in companion to help you navigate and analyze data.
-*   **Interactive Tutorial:** Need help getting started? Just click the 3-bar menu (`☰`) in the top-left corner of the GUI.
-
-### ⚙️ Engine Upgrades
-*   **Streamlined Structure:** The codebase has been simplified for better readability and maintenance.
-*   **Performance Boost:** Drastically improved management of `0` values in continuous data, leading to a solid **~3% increase in R² performance**.
-
----
-
-## 🌐 Try it Live!
-
-No time to download? You can test a lightweight version of the Eco-RETINA GUI directly in your browser:
-👉 **[Eco-RETINA Cloud Version](https://ecoretina-cloud.onrender.com/)** *(Note: Features are reduced compared to the desktop app).*
-
----
-
-## 👨‍💻 Credits & Acknowledgments
-
-This V2 release was developed by **Jules Bernadac** and **Maxime Elek** during a 2026 summer internship. 
-
-The project is built upon the foundational work and directed by **Professor Teodosio Perez Amaral**. 
-*Want to see where it all started? Check out the original V1 code and GUI developed by Javier Capilla here: [Eco-RETINA V1 Repository](https://github.com/jcapilla780/Eco-RETINA/).*This github aims to give access to the latest version of Eco Retina, a green interpretable out-of-sample forecasting algorithms.
-You'll find the python code of the algorithm ("eco-retinaV2", which requiries "utils.py" to work), the python code of the gui ( Graphical User Interface) and an exe file to use directly the GUi
-This version was developped by Jules BERNADAC and Maxime ELEK during a summer internship (2026). It is based on the work and under the direction of professor Teododio Perez Amaral. It is the second version of both the code and the GUI, the previous one by Javier Capilla can be found here :.github.com/jcapilla780/Eco-RETINA/
-
-The new version integrates data pre-processing, comparison with other algorithms and an AI assistant. A tutorial can be found in the GUI by clicking the 3 bars menu on the left hand top corner.
-
-The Eco-Retina code has also been modified. The structure has been simplified and the management of 0 values when continuous subsantially imporved which led to better performances (~3% R²).
-
-The GUI can also be used online with reduced features with this link : https://ecoretina-cloud.onrender.com/
+It is the second version of both the code and the GUI, the previous one by Javier Capilla can be found here: [https://github.com/jcapilla780/Eco-RETINA/](https://github.com/jcapilla780/Eco-RETINA/)
