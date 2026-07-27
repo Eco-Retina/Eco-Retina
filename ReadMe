@@ -1,0 +1,2 @@
+This github aims to give access to the latest version of Eco Retina, a green interpretable out-of-sample forecasting algorithms.
+You'll find the python code of the algorithm (which requiries "utils.py" to work), the python code of the gui ( Graphical User Interface) and an exe file to use directly the GUi
